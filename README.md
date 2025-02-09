@@ -7,7 +7,7 @@ This repository contains the **ReEco** corpus, introduced in the NAACL 2025 Find
 
 ## 📊 Dataset Description
 
-The **ReEco** corpus comprises **5,723 (Hate Speech, Counterspeech) pairs** collected from Reddit and includes key annotations to analyze user reactions.
+The **ReEco** corpus comprises **5,723 (Hate Speech, Counterspeech) pairs** collected from Reddit and includes key annotations to analyze haters' reactions.
 
 ### 📝 Column Descriptions:
 - **`grandContent`**:
