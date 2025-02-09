@@ -31,7 +31,13 @@ For any questions or dataset access requests, feel free to open an issue or cont
 
 If you use the **ReEco** dataset in your research, please cite the paper:
 
-Song, X., Perez, S. L., Yu, X., Blanco, E., & Hong, L. (2025). Echoes of Discord: Forecasting Hater Reactions to Counterspeech. arXiv preprint arXiv:2501.16235.
+@article{song2025echoes,
+  title={Echoes of Discord: Forecasting Hater Reactions to Counterspeech},
+  author={Song, Xiaoying and Perez, Sharon Lisseth and Yu, Xinchen and Blanco, Eduardo and Hong, Lingzi},
+  journal={arXiv preprint arXiv:2501.16235},
+  year={2025}
+}
+
 
 ---
 
